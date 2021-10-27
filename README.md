@@ -28,12 +28,5 @@ Jawaban :
 * [Transformasi class diagram ke dalam bentuk program](https://github.com/surezluvy/20104001_Wahyu-Triono_SE04A_Pemrograman2/blob/Modul3/modul3/pelatihan/Tabungan.java)
 * [Program tes](https://github.com/surezluvy/20104001_Wahyu-Triono_SE04A_Pemrograman2/blob/Modul3/modul3/pelatihan/TesTabungan.java)
 * Hasil running :
-java
-Saldo awal : 10000
-Jumlah uang yang disimpan : 8000
-Jumlah uang yang diambil : 7000 ok
-Jumlah uang yang disimpan : 1000
-Jumlah uang yang diambil : 10000 ok
-Jumlah uang yang diambil : 2500 gagal
-Jumlah uang yang disimpan : 2000
-Saldo sekarang = 4000
+
+![Hasil Running](https://i.ibb.co/yYX1VZX/image-2021-10-27-214325.png)
