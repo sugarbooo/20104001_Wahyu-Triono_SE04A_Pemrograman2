@@ -28,17 +28,20 @@ bitnya.
 
 ## LATIHAN
 1. Menganalisa batasan maksimum dari suatu tipe
-```public class BigInteger {
+```java
+public class BigInteger {
     public static void main(String args[]) {
         long p=2147483648;
     }
-}```
+}
+```
 
 Jawab:
 Program tersebut terjadi error karena pada java, walaupun memiliki tipe data long variabel tersebut tetap didefinisikan dengan int karena jika ingin menggunakan long, kita harus menambahkan huruf L setelah data pada variabel tersebut.
 
 2. Anak Ayam
-```package modul2.pelatihan;
+```java
+package modul2.pelatihan;
 
 public class Ayam {
     public static void main(String args[]) {
@@ -52,13 +55,15 @@ public class Ayam {
         }
         System.out.println("Mati 1 tinggal Induknya");
     }
-};```
+};
+```
 
 Hasil running:
 ![Hasil Running](https://i.ibb.co/fDFPy83/image-2021-10-27-215715.png)
 
 3. A+B+C
-```package modul2.pelatihan;
+```java
+package modul2.pelatihan;
 
 import java.util.Scanner;
 
@@ -86,7 +91,8 @@ public class ABC {
             System.out.println(d);
         }
     }
-}```
+}
+```
 
 Hasil running: 
 ![Hasil Running](https://i.ibb.co/SsKZ98Z/image-2021-10-27-215920.png)
