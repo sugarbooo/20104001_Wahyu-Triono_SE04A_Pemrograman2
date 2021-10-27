@@ -2,14 +2,14 @@
 
 ## Dasar Teori 
 
-* Keyword dalam Java
+* Keyword dalam Java <br/>
 Merupakan identifier yang telah di tetapkan/didefinisikan sebelumnya oleh Java dalam penggunaanya, keyword yang telah didefinisikan ini tidak dapat digunakan sebagai nama variabel, class, dan method.
 Ada juga 3 kata literal yaitu true, false, dan true yang juga tidak bisa dipakai untuk penamaan identifier.
 
-* Tipe Dasar
+* Tipe Dasar <br/>
 Merupakan tipe yang digunakan untuk membedakan data pada java. Pada java terdapat 8 tipe dasar, yaitu boolean, char, byte, short, int, long, float, dan double.
 
-* Variabel
+* Variabel <br/>
 Merupakan data yang dimasukan kedalam suatu wadah (memiliki tipe data dan nama) yang nantinya dapat digunakan secara berulang ulang.
 Dalam penamaan variabel memiliki 4 aturan, yaitu:
 1. Diawali dengan : Huruf/abjad atau karakter mata uang atau underscore(_)
@@ -17,7 +17,7 @@ Dalam penamaan variabel memiliki 4 aturan, yaitu:
 3. Tidak boleh mengandung karakter khusus atau spasi
 4. Tidak boleh diawali dengan angka
 
-* Casting dan Promotion
+* Casting dan Promotion <br/>
 Casting diperlukan untuk mengkonversi dari suatu tipe ke tipe
 data yang lebih kecil panjang bitnya. Sedangkan promotion terjadi pada
 saat mengkonversi dari suatu tipe data ke tipe data yang lebih panjang
@@ -27,7 +27,7 @@ bitnya.
 <hr>
 
 ## LATIHAN
-1. Menganalisa batasan maksimum dari suatu tipe
+1. Menganalisa batasan maksimum dari suatu tipe<br/>
 ```java
 public class BigInteger {
     public static void main(String args[]) {
@@ -36,7 +36,7 @@ public class BigInteger {
 }
 ```
 
-Jawab:
+Jawab: <br/>
 Program tersebut terjadi error karena pada java, walaupun memiliki tipe data long variabel tersebut tetap didefinisikan dengan int karena jika ingin menggunakan long, kita harus menambahkan huruf L setelah data pada variabel tersebut.
 
 2. Anak Ayam
@@ -58,7 +58,7 @@ public class Ayam {
 };
 ```
 
-Hasil running:
+Hasil running: <br/>
 ![Hasil Running](https://i.ibb.co/fDFPy83/image-2021-10-27-215715.png)
 
 3. A+B+C
@@ -94,5 +94,5 @@ public class ABC {
 }
 ```
 
-Hasil running: 
+Hasil running: <br/>
 ![Hasil Running](https://i.ibb.co/SsKZ98Z/image-2021-10-27-215920.png)
