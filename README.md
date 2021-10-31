@@ -63,6 +63,7 @@ public class Siswa{
 Construcor tidak dapat dipanggil secara langsung, namun harus dipanggil dengan operator new dalam pembentukan class.
 <hr>
 # Praktikum
+
 Soal:
 Analisislah dan tentukan konsep apa saja yang digunakan (dalam modul tersebut) serta mengapa hasil akhirnya seperti itu!
 
