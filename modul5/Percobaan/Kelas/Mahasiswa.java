@@ -1,26 +1,18 @@
-package Percobaan.Kelas;
+package Percobaan;
+
+import Percobaan.Mahasiswa;
 
 public class Mahasiswa {
-    private int nrp;
-    private String nama;
+    private int kodekelas;
+    private String namakelas;
+    private Mahasiswa mahasiswa;
 
-    public Mahasiswa() {
-        this(0, "");
+    public Mahasiswa(int kode, String nama) {
+        this.kodekelas = kode;
+        this.namakelas = nama;
     }
 
-    public Mahasiswa(String nama) {
-        this(0, nama);
+    public void setMhs(Mahasiswa mhs) {
+        this.mahasiswa = mhs;
     }
-
-    public Mahasiswa(int nrp, String nama) {
-        this.nrp = nrp;
-        this.nama = nama;
-    }
-
-    // private int nrp;
-    // private String nama;
-    // public Mahasiswa(int nrp, String nama) {
-    // this.nrp=nrp;
-    // this.nama=nama;
-    // }
 }
