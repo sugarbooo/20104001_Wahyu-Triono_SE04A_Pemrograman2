@@ -1,4 +1,6 @@
-package Percobaan.Kelas;
+package Percobaan.sekolah;
+
+import Percobaan.Mahasiswa;
 
 public class Kelas {
     private int kodekelas;
