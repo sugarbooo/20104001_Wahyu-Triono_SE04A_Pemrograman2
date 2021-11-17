@@ -10,3 +10,5 @@
 2. [Modul 2 : Dasar Pemrograman Java](https://github.com/surezluvy/20104001_Wahyu-Triono_SE04A_Pemrograman2/tree/Modul2)
 3. [Modul 3 : Pengenalan Pemrograman Beriorientasi Objek](https://github.com/surezluvy/20104001_Wahyu-Triono_SE04A_Pemrograman2/tree/Modul3)
 4. [Modul 4 : Dasar Pemrograman Berorientasi Objek](https://github.com/surezluvy/20104001_Wahyu-Triono_SE04A_Pemrograman2/tree/Modul4)
+4. [Modul 5 : Mengelola Class](https://github.com/surezluvy/20104001_Wahyu-Triono_SE04A_Pemrograman2/tree/Modul5)
+4. [Modul 6 : Konsep Inheritance](https://github.com/surezluvy/20104001_Wahyu-Triono_SE04A_Pemrograman2/tree/Modul6)
