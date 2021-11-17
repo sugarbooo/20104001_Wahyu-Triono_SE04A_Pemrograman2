@@ -13,6 +13,7 @@ public class A {
     }
 
     public void getNilai() {
-        System.out.println("Nilai x : "+ x +"Nilay y : "+ y);
+        System.out.println("Nilai x : " + x);
+        System.out.println("Nilai y : " + y);
     }
 }
