@@ -13,3 +13,4 @@
 5. [Modul 5 : Mengelola Class](https://github.com/surezluvy/20104001_Wahyu-Triono_SE04A_Pemrograman2/tree/Modul5)
 6. [Modul 6 : Konsep Inheritance](https://github.com/surezluvy/20104001_Wahyu-Triono_SE04A_Pemrograman2/tree/Modul6)
 7. [Modul 7 : Overloading dan Overriding](https://github.com/surezluvy/20104001_Wahyu-Triono_SE04A_Pemrograman2/tree/Modul7)
+8. [Modul 8 : Polimorfisme](https://github.com/surezluvy/20104001_Wahyu-Triono_SE04A_Pemrograman2/tree/Modul8)
